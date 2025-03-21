@@ -1,0 +1,159 @@
+/media/projet/EMTEC C450/eicar.com: Win.Test.EICAR_HDB-1 FOUND
+/media/projet/EMTEC C450/System Volume Information/WPSettings.dat: OK
+/media/projet/EMTEC C450/System Volume Information/IndexerVolumeGuid: OK
+/media/projet/EMTEC C450/~WRL2118.tmp: OK
+/media/projet/EMTEC C450/~$MODELE CONCEPTUEL exo 1.pptx: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/psid.db: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/tmp.Lion: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/Lion.created: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/tmp.Cab: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/Cab.created: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/tmp.Star: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/indexState: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexBigDates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexPostings: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexTermIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexPositions: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexPositionTable: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.indexUpdates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.directoryStoreFile: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/mds64-crash-state: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.shadowIndexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexBigDates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.directoryStoreFile: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.directoryStoreFile.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.shadowIndexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/journalAttr.1: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/store.db: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/.store.db: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-1.map.header: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-1.map.data: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-1.map.offsets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-1.map.buckets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-2.map.header: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-2.map.data: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-2.map.offsets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-2.map.buckets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-3.map.header: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-3.map.data: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-3.map.offsets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-3.map.buckets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-4.map.header: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-4.map.data: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-4.map.offsets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-4.map.buckets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-5.map.header: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-5.map.data: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-5.map.offsets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/dbStr-5.map.buckets: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/reverseDirectoryStore: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/tmp.spotlight.state: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/store_generation: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/journals.live_system/journal.1: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/journals.health_check/journal.1: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/journalExclusion: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexPostings: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/store.updates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.1.indexPositions: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexBigDates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.directoryStoreFile: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/Cab.modified: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.shadowIndexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexBigDates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.directoryStoreFile: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.directoryStoreFile.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.shadowIndexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexPostings: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.2.indexPositions: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/shutdown_time: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexTermIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexTermIds: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexPositionTable: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.shadowIndexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.directoryStoreFile: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.directoryStoreFile.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.shadowIndexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexPostings: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.3.indexPositions: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexPositions: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexUpdates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexBigDates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.directoryStoreFile.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.indexPostings: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.4.shadowIndexPositionTable: Empty file
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexCompactDirectory: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/reverseDirectoryStore.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.shadowIndexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexArrays: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.shadowIndexHead: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexIds: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexBigDates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.directoryStoreFile: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.directoryStoreFile.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.shadowIndexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexUpdates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexPostings: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/live.0.indexPositions: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.directoryStoreFile.shadow: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/0.shadowIndexGroups: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/TMPS~473.122: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/reverseStore.updates: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/TMPS~580.121: OK
+/media/projet/EMTEC C450/.Spotlight-V100/Store-V2/C6077D9B-1A50-462A-BEBC-027D3562F7D9/tmp.spotlight.loc: OK
+/media/projet/EMTEC C450/.Spotlight-V100/VolumeConfiguration.plist: OK
+/media/projet/EMTEC C450/._atelier 5.py: OK
+/media/projet/EMTEC C450/~$Présentation 3 minute.pptx: OK
+/media/projet/EMTEC C450/~$tD base de donnée.pptx: OK
+/media/projet/EMTEC C450/~$base de donné TP.pptx: OK
+/media/projet/EMTEC C450/~$base de donnée MPD.pptx: OK
+/media/projet/EMTEC C450/~$base de donné TP( MCD).pptx: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8705967
+Engine version: 1.4.2
+Scanned directories: 19
+Scanned files: 138
+Infected files: 1
+Data scanned: 11.00 MB
+Data read: 5.46 MB (ratio 2.02:1)
+Time: 56.473 sec (0 m 56 s)
+Start Date: 2025:03:21 00:18:31
+End Date:   2025:03:21 00:19:27
