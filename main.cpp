@@ -1,9 +1,14 @@
 #include <iostream>
-#include "Fonctions/detecterusb.h"
+#include <string>
 // Inclure l'en-tête et non le fichier .cpp
 
-int main() 
-{
-    DetecterUSB();
+// 🔹 Programme principal
+int main() {
+    std::string usbPath = DetecterUSB();
+    if (!usbPath.empty()) {
+        AfficherContenuUSB(usbPath);
+        ScannerUSB(usbPath);
+    }
+
     return 0;
 }
