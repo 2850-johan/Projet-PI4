@@ -6,6 +6,9 @@
 #include <filesystem>
 #include <atomic>
 
+#include "Scannerusb.h"
+
+
 namespace fs = std::filesystem;
 std::atomic<bool> stopLoading(false); // Flag pour arrêter l'animation du chargement
 
@@ -19,6 +22,8 @@ void AfficherChargement() {
     }
 }
 
+extern std::atomic<bool> stopLoading;
+
 void ScannerUSB(const std::string& path) {
     if (!fs::exists(path)) {
         std::cerr << "❌ Erreur : Le chemin " << path << " n'existe pas.\n";
@@ -28,34 +33,39 @@ void ScannerUSB(const std::string& path) {
     std::cout << "🛡️ Scan de la clé USB en cours...\n";
     stopLoading = false; // Réinitialise le flag d'arrêt
     std::thread loader(AfficherChargement);
+    std::string scanResultpATH = "Data/scan_result.txt";
 
-    // 🔹 Exécuter ClamAV et capturer le résultat
-    std::string scanCommand = "clamscan -r --stdout \"" + path + "\"";
-    FILE* pipe = popen(scanCommand.c_str(), "r");
-    if (!pipe) {
-        std::cerr << "❌ Erreur lors de l'exécution de ClamAV.\n";
+    // 🔹 Exécuter ClamAV et capturer le résultat dans un fichier
+    std::string scanCommand = "clamscan -r --stdout \"" + path + "\" > scan_result.txt 2>&1";
+    int scanStatus = system(scanCommand.c_str());
+
+    stopLoading = true;  // Stoppe l'animation du chargement
+    loader.join();       // Attend la fin du thread proprement
+    std::cout << "\r✅ Scan terminé !                                      \n";
+
+    if (scanStatus != 0) {
+        std::cerr << "❌ Erreur lors de l'exécution du scan ClamAV.\n";
         return;
     }
 
-    // 🔹 Vérifier les résultats du scan
+    // 🔹 Lire et afficher le contenu de scan_result.txt
+    std::ifstream resultFile("scan_result.txt");
+    if (!resultFile) {
+        std::cerr << "❌ Erreur : Impossible d'ouvrir scan_result.txt.\n";
+        return;
+    }
+
     std::string line;
     bool virusFound = false;
-    char buffer[256];
 
-    while (fgets(buffer, sizeof(buffer), pipe) != nullptr) {
-        line = buffer;
-        line.erase(line.find_last_not_of(" \n\r\t") + 1); // Supprime les espaces et retours à la ligne
-
+    while (getline(resultFile, line)) {
+        std::cout << line << std::endl; // Affichage en temps réel
         if (line.find("FOUND") != std::string::npos) {
             std::cout << "🚨 Virus détecté : " << line << std::endl;
             virusFound = true;
         }
     }
-    pclose(pipe);
-
-    stopLoading = true;  // Stoppe l'animation du chargement
-    loader.join();       // Attend la fin du thread proprement
-    std::cout << "\r✅ Scan terminé !                                      \n";
+    resultFile.close();
 
     if (virusFound) {
         std::cout << "❓ Voulez-vous supprimer les fichiers infectés ? (y/n) : ";

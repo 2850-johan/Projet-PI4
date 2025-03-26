@@ -2,6 +2,8 @@
 #include <filesystem>
 #include <string>
 
+#include "affichercontenu.h"
+
 // Fonction de détection de la clé USB (déjà définie précédemment)
 //std::string DetecterUSB();
 
